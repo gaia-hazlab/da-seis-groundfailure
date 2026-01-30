@@ -53,7 +53,7 @@ venv.bak/
 Thumbs.db
 
 # Data files (optional - uncomment if needed)
-# *.csv
+*/*.nc
 # *.hdf5
 # *.h5
 # *.nc
